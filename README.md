@@ -71,7 +71,18 @@
 <h3 align="center">🚀 Aspiring Cloud Engineer | Learning One Skill at a Time</h3>
 
 <Br>
-<hr>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+  <a href="mailto:nv23094@ncst.edu.bh">
+    <img src="https://img.shields.io/badge/-nv23094@ncst.edu.bh-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://bh.linkedin.com/in/mohammed-fardan-2351212b9">
+    <img src="https://img.shields.io/badge/-Mohammed%20Fardan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+</p>
+
 <Br>
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
@@ -80,7 +91,6 @@
   
   
 <Br>
-<hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
