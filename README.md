@@ -70,6 +70,12 @@
 
 <h3 align="center">🚀 Aspiring Cloud Engineer | Learning One Skill at a Time</h3>
 
+<h1>A Little Joke at the End! 🤣</h1>
+<Br>
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+
 <Br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -83,13 +89,7 @@
   </a>
 </p>
 
-<Br>
-<h1>A Little Joke at the End! 🤣</h1>
-<Br>
-  
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-  
+<Br> 
 <Br>
 <Br>
 <h1>Thank You! 🤵 </h1>
