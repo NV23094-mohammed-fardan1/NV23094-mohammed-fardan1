@@ -24,7 +24,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-🇧🇭 I'm Mohammed Fardan from Bahrain <br><br>
+   I'm Mohammed Fardan from Bahrain <br><br>
 🎓 12th Grade Student specializing in <strong>Cloud Computing</strong> <br>
 ☁️ Interested in cloud technologies, DevOps, and modern infrastructure <br>
 📚 Currently learning AWS, Docker, and web technologies <br>
@@ -50,16 +50,6 @@
 </div>
 
 ###
-
-<h3 align="left">🏆 Achievements & Activity</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NV23094-mohammed-fardan1&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
-
-###
-
-<h3 align="left">🐍 Contribution Snake</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
