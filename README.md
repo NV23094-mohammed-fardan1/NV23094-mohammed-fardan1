@@ -26,10 +26,12 @@
 <p align="left">
    I'm Mohammed Fardan from Bahrain <br><br>
 🎓 12th Grade Student specializing in <strong>Cloud Computing</strong> <br>
+🏅 <strong>AWS Certified Cloud Practitioner</strong> <br>
 ☁️ Interested in cloud technologies, DevOps, and modern infrastructure <br>
 📚 Currently learning AWS, Docker, and web technologies <br>
 ⚡ In my free time, I explore new tools and improve my technical skills
 </p>
+
 
 
 
