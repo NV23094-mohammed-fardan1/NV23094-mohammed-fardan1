@@ -31,6 +31,8 @@
 ⚡ In my free time, I explore new tools and improve my technical skills
 </p>
 
+
+
 ###
 
 <h3 align="left">🛠 Languages & Tools</h3>
@@ -58,3 +60,18 @@
 ###
 
 <h3 align="center">🚀 Aspiring Cloud Engineer | Learning One Skill at a Time</h3>
+
+<Br>
+<hr>
+<Br>
+<h1>A Little Joke at the End! 🤣</h1>
+<Br>
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  
+<Br>
+<hr>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
