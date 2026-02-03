@@ -22,9 +22,9 @@
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
-
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <p align="left">
-   I'm Mohammed Fardan from Bahrain <br><br>
+   I'm Mohammed Fardan from Bahrain  <br><br>
 🎓 12th Grade Student specializing in <strong>Cloud Computing</strong> <br>
 🏅 <strong>AWS Certified Cloud Practitioner</strong> <br>
 ☁️ Interested in cloud technologies, DevOps, and modern infrastructure <br>
